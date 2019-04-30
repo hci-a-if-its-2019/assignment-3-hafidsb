@@ -39,13 +39,12 @@
  - Reason: not yet found
  
 ### 2. Evaluation Script
-#### The instructions used will still be the same as the previous interview (context inquiry), those are:
+#### The instructions used will use some of the previous interview (context inquiry) instruction, some of those are:
  - Find the website’s contact information
  - Find the complete Atari catalogue in the website
- - Find way to order stuff from Best Electronics in the website
 
-#### But with additional instruction as well:
-- 
+#### And with additional instruction as well:
+- Find a way to know how to download the invoice of the purchase
  
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
@@ -88,18 +87,7 @@
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
  ---
 
 ## Part B: Prototyping (again)

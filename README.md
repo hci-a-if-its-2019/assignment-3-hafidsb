@@ -39,10 +39,13 @@
  - Reason: not yet found
  
 ### 2. Evaluation Script
-The instructions used will still be the same as the previous interview (context inquiry), thoose are:
- -
- -
- -
+#### The instructions used will still be the same as the previous interview (context inquiry), those are:
+ - Find the website’s contact information
+ - Find the complete Atari catalogue in the website
+ - Find way to order stuff from Best Electronics in the website
+
+#### But with additional instruction as well:
+- 
  
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.

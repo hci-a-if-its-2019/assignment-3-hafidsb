@@ -27,20 +27,23 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+ - Gender: Male 
+ - Age: about 40's
+ - Occupation: Bank Employer 
+ - Reason: He's easy to be found and is pretty close to me  
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
+ - Gender: ??
+ - Age: ??
+ - Occupation: ?? 
+ - Reason: not yet found
+ 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
-
+The instructions used will still be the same as the previous interview (context inquiry), thoose are:
+ -
+ -
+ -
+ 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,

@@ -5,7 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-[![Prototype Video]click me](https://youtu.be/98jKzYqWDWs)
+[![Prototype Video](click me)](https://youtu.be/98jKzYqWDWs)
 
 ---
 

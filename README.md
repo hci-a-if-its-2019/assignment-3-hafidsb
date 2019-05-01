@@ -5,7 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-[!click me](https://youtu.be/98jKzYqWDWs)
+[![1556685384947](https://user-images.githubusercontent.com/32842793/57005838-649a9780-6c05-11e9-9efc-885a1dc0b772.jpg)](https://youtu.be/98jKzYqWDWs)
 
 ---
 

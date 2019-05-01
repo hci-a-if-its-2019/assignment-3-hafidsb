@@ -25,10 +25,10 @@
  - Reason: He's easy to be found and is pretty close to me  
 
 #### b. Description of Participant 2
- - Gender: ??
- - Age: ??
- - Occupation: ?? 
- - Reason: not yet found
+ - Gender: Male
+ - Age: about 20's
+ - Occupation: College student
+ - Reason: He used online shopping platform often
  
 ### 2. Evaluation Script
 #### The instructions used will use some of the previous interview (context inquiry) instruction, some of those are:
@@ -37,6 +37,7 @@
 
 #### And with additional instruction as well:
 - Find a way to know how to download the invoice of the purchase
+- Go to the front page
  
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
@@ -48,10 +49,11 @@
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
+Me (:octocat:) with the participant (:older_man:)
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+ 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.

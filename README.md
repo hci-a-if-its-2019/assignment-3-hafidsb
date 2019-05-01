@@ -4,8 +4,7 @@
 > and an additional novice-participant with different demographics if possible.
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
-## Operating the Prototype
-### (Click the picture)
+## Operating the Prototype(click the picture)
 [![1556685384947](https://user-images.githubusercontent.com/32842793/57005838-649a9780-6c05-11e9-9efc-885a1dc0b772.jpg)](https://youtu.be/98jKzYqWDWs)
 
 ---
@@ -50,11 +49,24 @@
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
-Me (:octocat:) with the participant (:older_man:)
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+Me (:octocat:) with the participant (:moai:)
+ 1.  :octocat:  : Instruksi pertama: cari informasi kontak pada website ini!
+ 2.  :moai:     : fFound it immediately) Ini yang dibawah ya?
+ 3.  :octocat:  : Ya benar. Instruksi selanjutnya: cari katalog lengkap di website ini!
+ 4.  :moai:     : (hardly making any progress) Hmmm, gimana ini ya?
+ 5.  :octocat:  : Coba diutarakan pak kesulitan-kesulitannya.
+ 6.  :moai:     : Hmm aku kurang paham beginian (laugh). Ini di klik-kilik gitu kan? (clicked burger icon) Oh ini ya? Muncul banyak.
+ 7.  :octocat:  : Bukan pak. Cari terus.
+ 8.  :moai:     : (clicking first entry from burger pop up) Hmmm, ini ya? full catalogue?
+ 9.  :octocat:  : Yaa benar. Lanjut ke instruksi ketiga ya pak. Coba cari cara nge-download invoice di website ini!
+ 10. :moai:     : Opo kui invoice?
+ 11. :octocat:  : Yaa semacam bukti pembayaran gitu pak. Cuma perlu cari caranya aja. Ga sampe download.
+ 12. :moai:     : Ooh oke.
+ 13. :moai:     : (failed to find it in a reasonable time)
+ 14. :octocat:  : Ooh yaudah pak ke instruksi selanjutnya aja ya. Instruksi terakhir: coba balik ke halaman awal tadi. Ke yang halaman pertama kali buka websitenya.
+ 15. :moai:     : Oke.
+ 16. :moai:     : (after a little while, clicked the home button) Wa ini udah awal kan?
+ 17. :octocat:  : Yaa betull.  
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.

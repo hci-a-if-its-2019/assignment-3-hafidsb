@@ -69,6 +69,7 @@ Me (:octocat:) with the participant (:moyai:)
  17. :octocat:  : Yaa betull. 
 
 #### b. Transcript with Participant 2
+Me (:octocat:) with another participant (:runner:)
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
  - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.

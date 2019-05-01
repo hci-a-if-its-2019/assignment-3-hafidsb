@@ -49,24 +49,24 @@
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
-Me (:octocat:) with the participant (:moai:)
+Me (:octocat:) with the participant (:moyai:)
  1.  :octocat:  : Instruksi pertama: cari informasi kontak pada website ini!
- 2.  :moai:     : fFound it immediately) Ini yang dibawah ya?
+ 2.  :moyai:     : fFound it immediately) Ini yang dibawah ya?
  3.  :octocat:  : Ya benar. Instruksi selanjutnya: cari katalog lengkap di website ini!
- 4.  :moai:     : (hardly making any progress) Hmmm, gimana ini ya?
+ 4.  :moyai:     : (hardly making any progress) Hmmm, gimana ini ya?
  5.  :octocat:  : Coba diutarakan pak kesulitan-kesulitannya.
- 6.  :moai:     : Hmm aku kurang paham beginian (laugh). Ini di klik-kilik gitu kan? (clicked burger icon) Oh ini ya? Muncul banyak.
+ 6.  :moyai:     : Hmm aku kurang paham beginian (laugh). Ini di klik-kilik gitu kan? (clicked burger icon) Oh ini ya? Muncul banyak.
  7.  :octocat:  : Bukan pak. Cari terus.
- 8.  :moai:     : (clicking first entry from burger pop up) Hmmm, ini ya? full catalogue?
+ 8.  :moyai:     : (clicking first entry from burger pop up) Hmmm, ini ya? full catalogue?
  9.  :octocat:  : Yaa benar. Lanjut ke instruksi ketiga ya pak. Coba cari cara nge-download invoice di website ini!
- 10. :moai:     : Opo kui invoice?
+ 10. :moyai:     : Opo kui invoice?
  11. :octocat:  : Yaa semacam bukti pembayaran gitu pak. Cuma perlu cari caranya aja. Ga sampe download.
- 12. :moai:     : Ooh oke.
- 13. :moai:     : (failed to find it in a reasonable time)
+ 12. :moyai:     : Ooh oke.
+ 13. :moyai:     : (failed to find it in a reasonable time)
  14. :octocat:  : Ooh yaudah pak ke instruksi selanjutnya aja ya. Instruksi terakhir: coba balik ke halaman awal tadi. Ke yang halaman pertama kali buka websitenya.
- 15. :moai:     : Oke.
- 16. :moai:     : (after a little while, clicked the home button) Wa ini udah awal kan?
- 17. :octocat:  : Yaa betull.  
+ 15. :moyai:     : Oke.
+ 16. :moyai:     : (after a little while, clicked the home button) Wa ini udah awal kan?
+ 17. :octocat:  : Yaa betull. 
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.

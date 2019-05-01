@@ -5,11 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video]click me](https://youtu.be/98jKzYqWDWs)
 
 ---
 
@@ -21,10 +17,6 @@
 > You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
  - Gender: Male 

@@ -51,7 +51,7 @@
 #### a. Transcript with Participant 1
 Me (:octocat:) with the participant (:moyai:)
  1.  :octocat:  : Instruksi pertama: cari informasi kontak pada website ini!
- 2.  :moyai:     : fFound it immediately) Ini yang dibawah ya?
+ 2.  :moyai:     : (found it immediately) Ini yang dibawah ya?
  3.  :octocat:  : Ya benar. Instruksi selanjutnya: cari katalog lengkap di website ini!
  4.  :moyai:     : (hardly making any progress) Hmmm, gimana ini ya?
  5.  :octocat:  : Coba diutarakan pak kesulitan-kesulitannya.
@@ -79,29 +79,17 @@ Me (:octocat:) with another participant (:runner:)
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![1556740167032](https://user-images.githubusercontent.com/32842793/57039051-cac6ff00-6c85-11e9-8edd-56e673f61eda.jpg)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Feedback**: Make it clearer thath this particular page is the home screen. 
+ - **Incidence**: Can't tell wether the page mentioned is indeed a home screen
+ - **Reason**: There was no indication that the page mentioned is indeed a home screen
+ - **Resolution**: Add a home screen page or a welcoming messages.
  
-#### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
-
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
-
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
-
 ### Sketch
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.

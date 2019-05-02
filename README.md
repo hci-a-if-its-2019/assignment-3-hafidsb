@@ -27,12 +27,12 @@
  
 ### 2. Evaluation Script
 #### The instructions used will use some of the previous interview (context inquiry) instruction, some of those are:
- - Find the website’s contact information
- - Find the complete Atari catalogue in the website
+ 1. Find the website’s contact information
+ 2. Find the complete Atari catalogue in the website
 
 #### And with additional instruction(s) as well:
-- Find a way to know how to download the invoice of the purchase
-- Go to the front page
+ 3. Find a way to know how to download the invoice of the purchase
+ 4. Go to the front page
  
 ### 3. Transcript
 #### a. Transcript with Participant 1
@@ -104,7 +104,7 @@ Me (:octocat:) with another participant (:runner:)
 ![151593](https://user-images.githubusercontent.com/32842793/57073014-effd5100-6d09-11e9-8bc4-91c223ea7ffe.jpg)
 
 ### Design Rationale
-This usability evaluation helps me gather lacks and flaws of the design that can only be found from another prespective. Having a decent IT background making the designer blinded from ample ways of improvements. So by asking novice users to try using the design, the designer may found a flaw that seemed okay for advanced users but is a no-go for novice users. And so, the design has some improvement thanks to this usability evaluation.  
+This usability evaluation helps the designer gather lacks and flaws of the design that can only be found from whole different prespective. Having a decent IT background making the designer blinded from ample ways of improvements. So by asking novice users to try to use the design, the designer may found flaws that seemed okay for advanced users but is a no-go for novice users. And so, the design has some improvement thanks to this usability evaluation.  
 
 ### High-Fidelity Interactive-Prototype
-[High-fidelity prototype](https://invis.io/B5RTGQMWKYU)
+[Invision link](https://invis.io/B5RTGQMWKYU)

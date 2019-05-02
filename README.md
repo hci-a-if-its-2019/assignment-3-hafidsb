@@ -10,11 +10,6 @@
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
 
@@ -35,19 +30,11 @@
  - Find the website’s contact information
  - Find the complete Atari catalogue in the website
 
-#### And with additional instruction as well:
+#### And with additional instruction(s) as well:
 - Find a way to know how to download the invoice of the purchase
 - Go to the front page
  
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
-
 #### a. Transcript with Participant 1
 Me (:octocat:) with the participant (:moyai:)
  1.  :octocat:  : Instruksi pertama: cari informasi kontak pada website ini!
@@ -65,27 +52,49 @@ Me (:octocat:) with the participant (:moyai:)
  13. :moyai:     : (failed to find it in a reasonable time)
  14. :octocat:  : Ooh yaudah pak ke instruksi selanjutnya aja ya. Instruksi terakhir: coba balik ke halaman awal tadi. Ke yang halaman pertama kali buka websitenya.
  15. :moyai:     : Oke.
- 16. :moyai:     : (after a little while, clicked the home button) Wa ini udah awal kan?
- 17. :octocat:  : Yaa betull. 
+ 16. :moyai:     : (after a little while, clicked the atari logo) Wa ini udah awal kan?
+ 17. :octocat:  : Yaa betull. Baik pak sebelum uji desain web ini ditutup ada kritik atau saran terkait desain webnya pak?
+ 18. :moyai: : Hmmm ini kurang menarik desainnya, kurang eye-catching. Terus ini emang ga bisa di scroll ya? Ini yang halaman news udah bagus. Ini juga kurang gede deh logo merknya. Udah deh itu aja.
+ 19. :octocat: : Oke pak makasih banyak masukannya.
 
 #### b. Transcript with Participant 2
 Me (:octocat:) with another participant (:runner:)
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1.  :octocat:  : Oke, pertama coba kamu cari contact information di web ini!
+2.  :runner: : (wandering a little while) Ini kan? Email, nomer telpon, dll.
+3. :octocat: : Oke mantab, terus coba kamu cari katalog produk di web ini!
+4. :runner: : (clicked burger icon) Nah ini full catalogue(proceed by clicking said entry). Oke, next.
+5. :octocat: : Mantab, oke deh lanjut lagi, coba kamu cari gimana caranya buat download invoice di web ini! Cuma caranya aja, ga perlu sampe download beneran.
+6. :runner: : Hmmm oke. (whispering) Biasanya tuu di FAQ kan ya. (clicked burger icon, proceeding by clicking faq link). Hmmm apa tadi yang dicari?
+7. :octocat: : Cara download invoice.
+8. :runner: : Oh ini kan, langsung nomer satu.
+9. :octocat: : Sip. Oke terakhir, coba arahin balik ke front page nya.
+10. :runner: : Hmmm (clicked atari logo). Oh ini front page ya?
+11. :octocat: : Yup.
+12. :runner: : Oke.
+13. :octocat: : Gimana, ada feedback ga?
+14. :runner: : Ini aja sih paling, front page nya kurang nunjukin kalo ini itu front page, menurutku. Sisanya sih oke.
+15. :octocat: : Sip, mantab.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
+![1556795241301](https://user-images.githubusercontent.com/32842793/57071641-4025e480-6d05-11e9-99f4-34587284e12c.jpg)
+
+ - **Reference**: Participant #1 - line number 18.
+ - **Feedback**: Make the logo bigger.
+ - **Incidence**: (assumed) Having difficulty when performing task number four.
+ - **Reason**: The size of the logo is considered small.
+ - **Resolution**: Make the logo bigger.
+ 
+ #### OBSERVATION 2
 ![1556740167032](https://user-images.githubusercontent.com/32842793/57039051-cac6ff00-6c85-11e9-8edd-56e673f61eda.jpg)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Make it clearer thath this particular page is the home screen. 
- - **Incidence**: Can't tell wether the page mentioned is indeed a home screen
- - **Reason**: There was no indication that the page mentioned is indeed a home screen
- - **Resolution**: Add a home screen page or a welcoming messages.
+ - **Reference**: Participant #2 - line number 14.
+ - **Feedback**: Make it clearer that this particular page is the home screen. 
+ - **Incidence**: Can't tell wether the page mentioned is indeed a home screen.
+ - **Reason**: There was no indication that the page mentioned is indeed a home screen.
+ - **Resolution**: Add a "home screen" string or a welcoming messages on the front page. 
  
  ---
 
@@ -98,8 +107,7 @@ Me (:octocat:) with another participant (:runner:)
 ![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+This usability evaluation helps me gather lacks and flaws of the design that can only be found from another prespective. Having a decent IT background making the designer blinded from ample ways of improvements. So by asking novice users to try using the design, the designer may found a flaw that seemed okay for advanced users but is a no-go for novice users. And so, the design has some improvement thanks to this usability evaluation.  
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.

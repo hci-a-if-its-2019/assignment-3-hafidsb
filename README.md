@@ -1,8 +1,4 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype(click the picture)
 [![1556685384947](https://user-images.githubusercontent.com/32842793/57005838-649a9780-6c05-11e9-9efc-885a1dc0b772.jpg)](https://youtu.be/98jKzYqWDWs)
@@ -76,7 +72,6 @@ Me (:octocat:) with another participant (:runner:)
 15. :octocat: : Sip, mantab.
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
 ![1556795241301](https://user-images.githubusercontent.com/32842793/57071641-4025e480-6d05-11e9-99f4-34587284e12c.jpg)

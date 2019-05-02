@@ -100,15 +100,11 @@ Me (:octocat:) with another participant (:runner:)
 
 ## Part B: Prototyping (again)
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![151593](https://user-images.githubusercontent.com/32842793/57073014-effd5100-6d09-11e9-8bc4-91c223ea7ffe.jpg)
 
 ### Design Rationale
 This usability evaluation helps me gather lacks and flaws of the design that can only be found from another prespective. Having a decent IT background making the designer blinded from ample ways of improvements. So by asking novice users to try using the design, the designer may found a flaw that seemed okay for advanced users but is a no-go for novice users. And so, the design has some improvement thanks to this usability evaluation.  
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+[High-fidelity prototype](https://invis.io/B5RTGQMWKYU)
